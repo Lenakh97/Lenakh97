@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenakh97&layout=compact)](https://github.com/lenakh97/github-readme-stats)
+
+[![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenakh97)](https://github.com/lenakh97/github-readme-stats)
+
 <!--
 **Lenakh97/Lenakh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
